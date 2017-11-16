@@ -1,1 +1,3 @@
-Chef::Log.info("********** Hello, World! **********")
+package "Install Emacs" do
+  package_name "emacs"
+end  
