@@ -1,3 +1,3 @@
-application "Install Vi" do
-  package "Vi"
+application "Install Vim" do
+  package "vim"
 end
