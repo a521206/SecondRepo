@@ -1,3 +1,3 @@
 name "opsworks_cookbook_demo"
 
-depends "application", "5.0.0"
+depends 'vim', '~> 2.0.2'
