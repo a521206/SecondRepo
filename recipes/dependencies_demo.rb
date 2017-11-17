@@ -1,3 +1,3 @@
-application "Install NetHack" do
-  package "nethack.x86_64"
+application "Install Vi" do
+  package "Vi"
 end
